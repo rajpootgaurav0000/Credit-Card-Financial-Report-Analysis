@@ -1,5 +1,7 @@
 # Credit-Card-Financial-Report-Analysis
-POWER BI
+POWER BI Project
+
+
 Hello Folks! 🖐
 🚀 I'm excited to share with you another Power BI Credit Card Weekly Dashboard Project. 📈 
 
@@ -21,8 +23,8 @@ This project aimed to develop a comprehensive Power BI dashboard to analyze cred
 
 📌 Key Findings (Week 53 - Dec 31st):
 
-◾ Strong Revenue & Transactions: We achieved 57 million in revenue and 46 million in transaction volume year-to-date (YTD).
-◾ Customer Insights: Males are driving revenue with 31 million compared to females 26 million (YTD).
+◾ Strong Revenue & Transactions: We achieved 55 million in revenue and 45 million in transaction volume year-to-date (YTD).
+◾ Customer Insights: Males are driving revenue with 30 million compared to females 25 million (YTD).
 ◾ Top Card Performance: Blue & Silver cards dominate with a 93% share of transactions.
 ◾ Geographic Strength: TX, NY, and CA contribute a significant 68% of transactions. 
 ◾ Healthy Activation Rate: We have a positive activation rate of 57.5%.
